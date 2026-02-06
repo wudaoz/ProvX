@@ -24,8 +24,7 @@ This repository contains code and artifacts for **ProvX**, including model train
 │   ├── shapley.py             # Shapley-style scoring utilities
 │   └── nodoze*.py             # NoDoze baseline implementation
 │
-├── helpers/                   # Misc utilities (paths, joern helpers, etc.)
-└── storage/                   # Cached data, processed artifacts, and external tools
+└── helpers/                   # Misc utilities (paths, joern helpers, etc.)
 ```
 
 ## Key concepts / important files
